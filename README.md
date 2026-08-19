@@ -5,6 +5,7 @@
 An end-to-end **Machine Learning project for e-commerce sales prediction**, built with Python, Scikit-learn, Pandas, and Streamlit.
 
 The project demonstrates the complete machine learning workflow — from data preprocessing and feature engineering to model training, evaluation, prediction, and deployment through an interactive web application.
+https://cd4jpn4w8ss9f6dwlcgjjv.streamlit.app/
 
 ---
 
